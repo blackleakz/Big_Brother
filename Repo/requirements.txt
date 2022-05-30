@@ -1,0 +1,7 @@
+PySide6
+PySide2
+twill
+configparser
+theharvester
+wget
+keyboard
